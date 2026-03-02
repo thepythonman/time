@@ -1,2 +1,2 @@
 # time
-A simple flask time checker website useing the time.now api
+A simple muinte conter useing the pygame library
